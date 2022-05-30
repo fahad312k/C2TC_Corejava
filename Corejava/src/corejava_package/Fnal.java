@@ -1,6 +1,16 @@
 package corejava_package;
 
-public class Fnal {
+	class a
+{
+ final	void run()
+	{
+		
+	}
+ 
+	
+}
+public class Fnal extends a
+{
 int speedlimit=90;
 void run()
 {
@@ -13,5 +23,6 @@ void run()
 Fnal ob1=new Fnal();
 ob1.run();
 	}
+
 
 }
