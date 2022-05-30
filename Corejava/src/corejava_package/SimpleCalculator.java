@@ -1,4 +1,4 @@
-package abc;
+package corejava_package;
 
 
 public class SimpleCalculator {
