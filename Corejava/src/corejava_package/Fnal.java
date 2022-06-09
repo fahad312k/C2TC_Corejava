@@ -2,7 +2,7 @@ package corejava_package;
 
 	class a
 {
- final	void run()
+ 	void run()
 	{
 		
 	}
